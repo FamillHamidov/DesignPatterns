@@ -21,8 +21,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="CQRSPattern\Commands\" />
-    <Folder Include="CQRSPattern\Queries\" />
     <Folder Include="NewFolder\" />
   </ItemGroup>
 

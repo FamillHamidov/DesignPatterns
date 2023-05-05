@@ -16,8 +16,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Project\DesignPatterns\CQRSDesignPattern\DesignPattern.CQRS
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Project/DesignPatterns/CQRSDesignPattern/DesignPattern.CQRS/Views/Default/GetById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxHZXRCeUlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Project/DesignPatterns/CQRSDesignPattern/DesignPattern.CQRS/Views/Default/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/DesignPatterns/CQRSDesignPattern/DesignPattern.CQRS/Views/Default/NewProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxOZXdQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/DesignPatterns/CQRSDesignPattern/DesignPattern.CQRS/Views/Default/UpdateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxVcGRhdGVQcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Project/DesignPatterns/CQRSDesignPattern/DesignPattern.CQRS/Views/Home/Index.cshtml]
