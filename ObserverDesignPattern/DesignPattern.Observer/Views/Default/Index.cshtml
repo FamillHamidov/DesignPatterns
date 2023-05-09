@@ -1,0 +1,26 @@
+﻿@model RegisterViewModel
+@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+	<form method="post">
+		<label asp-for="Name"></label>
+		<input asp-for="Name" class="form-control" type="text" />
+		<br />
+		<label asp-for="Surname"></label>
+		<input asp-for="Surname" class="form-control" type="text" />
+		<br />
+		<label asp-for="Email"></label>
+		<input asp-for="Email" class="form-control" type="text" />
+		<br />
+		<label asp-for="Username"></label>
+		<input asp-for="Username" class="form-control" type="text" />
+		<br />
+		<label asp-for="Password"></label>
+		<input asp-for="Password" class="form-control" type="password" />
+		<br />
+		<button type="submit" class="btn btn-success">Create User</button>
+	</form>
+</div>
