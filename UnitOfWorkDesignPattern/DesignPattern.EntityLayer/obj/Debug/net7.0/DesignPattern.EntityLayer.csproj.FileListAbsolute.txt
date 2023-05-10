@@ -1,0 +1,14 @@
+D:\Project\DesignPatterns\UnitOfWorkDesignPattern\DesignPattern.EntityLayer\bin\Debug\net7.0\DesignPattern.EntityLayer.deps.json
+D:\Project\DesignPatterns\UnitOfWorkDesignPattern\DesignPattern.EntityLayer\bin\Debug\net7.0\DesignPattern.EntityLayer.runtimeconfig.json
+D:\Project\DesignPatterns\UnitOfWorkDesignPattern\DesignPattern.EntityLayer\bin\Debug\net7.0\DesignPattern.EntityLayer.dll
+D:\Project\DesignPatterns\UnitOfWorkDesignPattern\DesignPattern.EntityLayer\bin\Debug\net7.0\DesignPattern.EntityLayer.pdb
+D:\Project\DesignPatterns\UnitOfWorkDesignPattern\DesignPattern.EntityLayer\obj\Debug\net7.0\DesignPattern.EntityLayer.csproj.AssemblyReference.cache
+D:\Project\DesignPatterns\UnitOfWorkDesignPattern\DesignPattern.EntityLayer\obj\Debug\net7.0\DesignPattern.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\DesignPatterns\UnitOfWorkDesignPattern\DesignPattern.EntityLayer\obj\Debug\net7.0\DesignPattern.EntityLayer.AssemblyInfoInputs.cache
+D:\Project\DesignPatterns\UnitOfWorkDesignPattern\DesignPattern.EntityLayer\obj\Debug\net7.0\DesignPattern.EntityLayer.AssemblyInfo.cs
+D:\Project\DesignPatterns\UnitOfWorkDesignPattern\DesignPattern.EntityLayer\obj\Debug\net7.0\DesignPattern.EntityLayer.csproj.CoreCompileInputs.cache
+D:\Project\DesignPatterns\UnitOfWorkDesignPattern\DesignPattern.EntityLayer\obj\Debug\net7.0\DesignPattern.EntityLayer.dll
+D:\Project\DesignPatterns\UnitOfWorkDesignPattern\DesignPattern.EntityLayer\obj\Debug\net7.0\refint\DesignPattern.EntityLayer.dll
+D:\Project\DesignPatterns\UnitOfWorkDesignPattern\DesignPattern.EntityLayer\obj\Debug\net7.0\DesignPattern.EntityLayer.pdb
+D:\Project\DesignPatterns\UnitOfWorkDesignPattern\DesignPattern.EntityLayer\obj\Debug\net7.0\DesignPattern.EntityLayer.genruntimeconfig.cache
+D:\Project\DesignPatterns\UnitOfWorkDesignPattern\DesignPattern.EntityLayer\obj\Debug\net7.0\ref\DesignPattern.EntityLayer.dll

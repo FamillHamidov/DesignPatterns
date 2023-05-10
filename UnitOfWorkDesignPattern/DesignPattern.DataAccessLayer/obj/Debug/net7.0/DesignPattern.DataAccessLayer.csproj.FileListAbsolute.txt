@@ -1,0 +1,17 @@
+D:\Project\DesignPatterns\UnitOfWorkDesignPattern\DesignPattern.DataAccessLayer\bin\Debug\net7.0\DesignPattern.DataAccessLayer.deps.json
+D:\Project\DesignPatterns\UnitOfWorkDesignPattern\DesignPattern.DataAccessLayer\bin\Debug\net7.0\DesignPattern.DataAccessLayer.runtimeconfig.json
+D:\Project\DesignPatterns\UnitOfWorkDesignPattern\DesignPattern.DataAccessLayer\bin\Debug\net7.0\DesignPattern.DataAccessLayer.dll
+D:\Project\DesignPatterns\UnitOfWorkDesignPattern\DesignPattern.DataAccessLayer\bin\Debug\net7.0\DesignPattern.DataAccessLayer.pdb
+D:\Project\DesignPatterns\UnitOfWorkDesignPattern\DesignPattern.DataAccessLayer\bin\Debug\net7.0\DesignPattern.EntityLayer.dll
+D:\Project\DesignPatterns\UnitOfWorkDesignPattern\DesignPattern.DataAccessLayer\bin\Debug\net7.0\DesignPattern.EntityLayer.pdb
+D:\Project\DesignPatterns\UnitOfWorkDesignPattern\DesignPattern.DataAccessLayer\obj\Debug\net7.0\DesignPattern.DataAccessLayer.csproj.AssemblyReference.cache
+D:\Project\DesignPatterns\UnitOfWorkDesignPattern\DesignPattern.DataAccessLayer\obj\Debug\net7.0\DesignPattern.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\DesignPatterns\UnitOfWorkDesignPattern\DesignPattern.DataAccessLayer\obj\Debug\net7.0\DesignPattern.DataAccessLayer.AssemblyInfoInputs.cache
+D:\Project\DesignPatterns\UnitOfWorkDesignPattern\DesignPattern.DataAccessLayer\obj\Debug\net7.0\DesignPattern.DataAccessLayer.AssemblyInfo.cs
+D:\Project\DesignPatterns\UnitOfWorkDesignPattern\DesignPattern.DataAccessLayer\obj\Debug\net7.0\DesignPattern.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Project\DesignPatterns\UnitOfWorkDesignPattern\DesignPattern.DataAccessLayer\obj\Debug\net7.0\DesignPattern.DataAccessLayer.csproj.CopyComplete
+D:\Project\DesignPatterns\UnitOfWorkDesignPattern\DesignPattern.DataAccessLayer\obj\Debug\net7.0\DesignPattern.DataAccessLayer.dll
+D:\Project\DesignPatterns\UnitOfWorkDesignPattern\DesignPattern.DataAccessLayer\obj\Debug\net7.0\refint\DesignPattern.DataAccessLayer.dll
+D:\Project\DesignPatterns\UnitOfWorkDesignPattern\DesignPattern.DataAccessLayer\obj\Debug\net7.0\DesignPattern.DataAccessLayer.pdb
+D:\Project\DesignPatterns\UnitOfWorkDesignPattern\DesignPattern.DataAccessLayer\obj\Debug\net7.0\DesignPattern.DataAccessLayer.genruntimeconfig.cache
+D:\Project\DesignPatterns\UnitOfWorkDesignPattern\DesignPattern.DataAccessLayer\obj\Debug\net7.0\ref\DesignPattern.DataAccessLayer.dll
