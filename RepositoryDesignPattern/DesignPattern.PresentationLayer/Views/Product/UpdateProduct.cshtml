@@ -1,0 +1,27 @@
+﻿@model DesignPattern.EntityLayer.Concrete.Product
+@{
+    ViewData["Title"] = "UpdateProduct";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Update Product</h1>
+<br />
+<div class="container">
+	<form method="post">
+		<input asp-for="Id" type="hidden"/>
+		<label asp-for="Name"></label>
+		<input asp-for="Name" type="text" class="form-control" />
+		<br />
+		<label asp-for="Name"></label>
+		@Html.DropDownListFor(x=>x.CategoryId, (List<SelectListItem>)ViewBag.c,new {@class="form-control"} )
+		<br />
+		<label asp-for="Stock"></label>
+		<input asp-for="Stock" type="text" class="form-control" />
+		<br />
+		<label asp-for="Price"></label>
+		<input asp-for="Price" type="text" class="form-control" />
+		<br />
+		<button class="btn btn-success">Update Product</button>
+	</form>
+</div>
+

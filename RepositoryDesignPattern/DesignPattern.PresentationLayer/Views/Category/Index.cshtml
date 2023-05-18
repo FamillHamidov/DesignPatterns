@@ -1,0 +1,29 @@
+﻿@model List<DesignPattern.EntityLayer.Concrete.Category>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Category</h1>
+<div class="container">
+    <br />
+    <table class="table table-bordered">
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Delete</th>
+            <th>Update</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td><a href="/Category/DeleteCategory/@item.Id" class="btn btn-danger">Delete</a></td>
+                <td><a href="/Category/UpdateCategory/@item.Id" class="btn btn-primary">Update</a></td>
+            </tr>
+        }
+    </table>
+    <a href="/Category/AddCategory/" class="btn btn-success">New Category</a>
+</div>
+

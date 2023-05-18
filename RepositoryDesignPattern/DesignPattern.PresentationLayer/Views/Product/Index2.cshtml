@@ -1,0 +1,35 @@
+﻿@model List<DesignPattern.EntityLayer.Concrete.Product>
+@{
+    ViewData["Title"] = "Index2";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Product</h1>
+<div class="container">
+    <br />
+    <table class="table table-bordered">
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Category</th>
+            <th>Stock</th>
+            <th>Price</th>
+            <th>Delete</th>
+            <th>Update</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Category.Name</td>
+                <td>@item.Stock</td>
+                <td>@item.Price</td>
+                <td><a href="/Product/DeleteProduct/@item.Id" class="btn btn-danger">Delete</a></td>
+                <td><a href="/Product/UpdateProduct/@item.Id" class="btn btn-primary">Update</a></td>
+            </tr>
+        }
+    </table>
+    <a href="/Product/AddProduct/" class="btn btn-success">New Product</a>
+</div>
+
