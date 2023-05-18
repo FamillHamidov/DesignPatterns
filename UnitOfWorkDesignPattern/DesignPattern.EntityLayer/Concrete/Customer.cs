@@ -10,6 +10,6 @@ namespace DesignPattern.EntityLayer.Concrete
 	{
         public int Id { get; set; }
         public string Name { get; set; } = null!;
-        public string Balance { get; set; } = null!;
+        public decimal Balance { get; set; }
 	}
 }

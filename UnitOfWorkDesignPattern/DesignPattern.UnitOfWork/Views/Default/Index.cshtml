@@ -1,0 +1,22 @@
+﻿@model DesignPattern.UnitOfWork.Models.CustomerViewModel
+@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h3>Customer</h3>
+<div class="container">
+	<br />
+	<form method="post">
+		<label asp-for="SenderId"></label>
+		<input asp-for="SenderId" type="text" class="form-control" />
+		<br />
+		<label asp-for="ReceiverId"></label>
+		<input asp-for="ReceiverId" type="text" class="form-control" />
+		<br />
+		<label asp-for="Amount"></label>
+		<input asp-for="Amount" type="text" class="form-control" />
+		<br />
+		<button class="btn btn-success">Send</button>
+	</form>
+</div>
+

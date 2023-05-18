@@ -1,4 +1,10 @@
+using DesignPattern.BusinessLayer.Abstract;
+using DesignPattern.BusinessLayer.Concrete;
+using DesignPattern.DataAccessLayer.Abstract;
 using DesignPattern.DataAccessLayer.Concrete;
+using DesignPattern.DataAccessLayer.EntityFramework;
+using DesignPattern.DataAccessLayer.UnitOfWork;
+using DesignPattern.EntityLayer.Concrete;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -6,7 +12,9 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddEntityFrameworkNpgsql().AddDbContext<Context>(opt =>
 opt.UseNpgsql(builder.Configuration.GetConnectionString("default")));
-
+builder.Services.AddScoped<ICustomerDal, EfCustomerDal>();
+builder.Services.AddScoped<ICustomerService, CustomerManager>();
+builder.Services.AddScoped<IUnitOfWorkDal, UnitOfWorkDal>();
 var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
